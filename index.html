@@ -4,7 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Fleet Ready Logistics | Amazon Delivery Driver Jobs in North Jersey</title>
-  <meta name="description" content="Drive for Fleet Ready Logistics, Amazon's local delivery partner serving North Jersey. $20/hr starting pay, weekly paychecks, consistent morning routes. Apply today." />
+  <meta name="description" content="Drive for Fleet Ready Logistics, Amazon's delivery partner in North Jersey. $20/hr starting pay, weekly paychecks, local morning routes. Apply today." />
+  <link rel="canonical" href="https://fleetreadylogistics.com/" />
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="assets/logo-black.png" />
@@ -26,6 +27,7 @@
   <meta name="twitter:description" content="$20/hr starting pay. Local routes. Weekly paychecks. Apply in 5 minutes." />
   <meta name="twitter:image" content="https://fleetreadylogistics.com/assets/og-image.png" />
 
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet" />
@@ -58,9 +60,12 @@
   </style>
   <script>
     (function() {
-      if (sessionStorage.getItem('frl_auth') === '1') return;
       document.addEventListener('DOMContentLoaded', function() {
         var gate = document.getElementById('pw-gate');
+        if (sessionStorage.getItem('frl_auth') === '1') {
+          gate.style.display = 'none';
+          return;
+        }
         var form = document.getElementById('pw-form');
         var err  = document.getElementById('pw-error');
         form.addEventListener('submit', function(e) {
@@ -83,7 +88,7 @@
   <div id="pw-gate">
     <img src="assets/logo-white.png" alt="Fleet Ready Logistics" />
     <form id="pw-form">
-      <input id="pw-input" type="password" placeholder="Enter password" autocomplete="off" />
+      <input id="pw-input" type="password" placeholder="Enter password" autocomplete="current-password" />
       <div id="pw-error">Incorrect password. Try again.</div>
       <button type="submit">View Site</button>
     </form>
@@ -96,7 +101,7 @@
       <li><a href="#about"><span class="en">About</span><span class="es">Nosotros</span></a></li>
       <li><a href="#benefits"><span class="en">Benefits</span><span class="es">Beneficios</span></a></li>
       <li><a href="#how-it-works"><span class="en">How It Works</span><span class="es">Cómo Funciona</span></a></li>
-      <li><a href="#apply"><span class="en">Apply</span><span class="es">Aplica</span></a></li>
+      <li><a href="#apply"><span class="en">Open Positions</span><span class="es">Posiciones Abiertas</span></a></li>
     </ul>
     <div class="mobile-bottom">
       <button id="mobile-lang-btn" class="lang-toggle">ES</button>
@@ -210,7 +215,7 @@
         </p>
         <h2 class="section-title">
           <span class="en">Built in Lodi. Built for Drivers.</span>
-          <span class="es">Construida en Lodi. Para los Conductores.</span>
+          <span class="es">Construida en Lodi. Construida para los Conductores.</span>
         </h2>
         <p>
           <span class="en">Fleet Ready was built right here in Lodi by Joanne, a local operator who believes delivery drivers deserve a workplace that actually takes care of them: real pay, consistent routes, and a team that knows your name.</span>
@@ -612,8 +617,8 @@
       <hr class="footer-divider" />
       <div class="footer-bottom">
         <p class="footer-copy">
-          <span class="en">© 2025 Fleet Ready Logistics LLC. All rights reserved.</span>
-          <span class="es">© 2025 Fleet Ready Logistics LLC. Todos los derechos reservados.</span>
+          <span class="en">© 2026 Fleet Ready Logistics LLC. All rights reserved.</span>
+          <span class="es">© 2026 Fleet Ready Logistics LLC. Todos los derechos reservados.</span>
         </p>
         <p class="footer-disclaimer">
           <span class="en">Fleet Ready Logistics is an independent business and is not Amazon.com, Inc. or any of its affiliates.</span>

@@ -6,6 +6,7 @@ const LANG_KEY = 'frl_lang';
 function setLang(lang) {
   document.body.classList.remove('lang-en', 'lang-es');
   document.body.classList.add('lang-' + lang);
+  document.documentElement.setAttribute('lang', lang);
   localStorage.setItem(LANG_KEY, lang);
 
   const btn = document.getElementById('lang-btn');
@@ -36,11 +37,13 @@ const mobileMenu = document.getElementById('mobile-menu');
 function openMobileMenu() {
   mobileMenu?.classList.add('open');
   document.body.style.overflow = 'hidden';
+  document.getElementById('hamburger')?.setAttribute('aria-expanded', 'true');
 }
 
 function closeMobileMenu() {
   mobileMenu?.classList.remove('open');
   document.body.style.overflow = '';
+  document.getElementById('hamburger')?.setAttribute('aria-expanded', 'false');
 }
 
 document.getElementById('hamburger')?.addEventListener('click', openMobileMenu);
@@ -77,11 +80,6 @@ window.addEventListener('scroll', () => {
     nav?.classList.remove('scrolled');
   }
 }, { passive: true });
-
-// Add scrolled style
-const style = document.createElement('style');
-style.textContent = '#nav.scrolled { box-shadow: 0 2px 16px rgba(0,0,0,0.10); }';
-document.head.appendChild(style);
 
 // ===== INIT =====
 initLang();
