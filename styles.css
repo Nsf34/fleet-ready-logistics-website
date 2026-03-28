@@ -413,6 +413,42 @@ section { padding: 96px 5%; }
 
 .benefits-header { max-width: 1100px; margin: 0 auto 56px; }
 
+/* Pillar icons row */
+.benefits-pillars {
+  display: flex;
+  justify-content: center;
+  gap: 64px;
+  margin: 48px auto 0;
+  max-width: 1100px;
+}
+.pillar { display: flex; flex-direction: column; align-items: center; }
+.pillar-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pillar-icon svg {
+  width: 36px;
+  height: 36px;
+  stroke: var(--orange);
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+.pillar-label {
+  margin-top: 14px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--black);
+}
+
 .benefits-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -896,6 +932,10 @@ section { padding: 96px 5%; }
   .job-cta .btn { width: 100%; text-align: center; }
 
   .benefit-card { padding: 24px 20px; }
+  .benefits-pillars { gap: 24px; margin-top: 36px; }
+  .pillar-icon { width: 56px; height: 56px; }
+  .pillar-icon svg { width: 28px; height: 28px; }
+  .pillar-label { font-size: 0.72rem; margin-top: 10px; }
 
   /* Job card tighter on phone */
   .job-card { padding: 28px 20px; }
