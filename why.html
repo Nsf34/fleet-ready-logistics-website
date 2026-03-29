@@ -24,7 +24,7 @@
     .why-hero h1 em { font-style: normal; color: var(--orange); }
     .why-hero p {
       font-size: 1.15rem;
-      color: rgba(255,255,255,0.7);
+      color: rgba(255,255,255,0.88);
       max-width: 600px;
       margin: 0 auto 32px;
       line-height: 1.7;
@@ -144,6 +144,29 @@
       .why-grid { grid-template-columns: 1fr; }
       .why-hero { padding: 60px 5%; }
       .why-page { padding: 40px 5%; }
+      .vs-table { display: block; }
+      .vs-table thead { display: none; }
+      .vs-table tbody { display: block; }
+      .vs-table tr {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 4px 12px;
+        padding: 16px 0;
+        border-bottom: 1px solid #eee;
+      }
+      .vs-table td:first-child {
+        grid-column: 1 / -1;
+        font-weight: 800;
+        font-size: 0.85rem;
+        color: var(--black);
+        padding: 0 0 4px;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .vs-table td:nth-child(2) { color: var(--text-secondary); font-size: 0.82rem; padding: 0; }
+      .vs-table td:nth-child(3) { font-size: 0.82rem; padding: 0; }
+      .vs-table td:nth-child(2)::before { content: "Typical: "; font-weight: 600; }
+      .vs-table td:nth-child(3)::before { content: "Fleet Ready: "; font-weight: 600; }
     }
   </style>
 </head>
@@ -203,6 +226,16 @@
           <h3>Room to Grow</h3>
           <p>We're building this operation from the ground up. The people here early who earn it will be the first to move into lead and dispatch roles.</p>
         </div>
+        <div class="why-card">
+          <div class="icon">🎧</div>
+          <h3>Your Route, Your Pace</h3>
+          <p>No manager hovering. No customers arguing about coupons. Just you, the van, your music, and the road.</p>
+        </div>
+        <div class="why-card">
+          <div class="icon">🛡️</div>
+          <h3>AI-Proof Career</h3>
+          <p>Self-checkout is replacing cashiers. Delivery needs a human at the door. This job isn't going anywhere.</p>
+        </div>
       </div>
     </div>
 
@@ -254,31 +287,17 @@
             <td>1099 gigs = owe at tax time</td>
             <td><span class="check">W-2 — taxes taken out</span></td>
           </tr>
-          <tr>
-            <td>AI-Proof?</td>
-            <td>Self-checkout replacing cashiers</td>
-            <td><span class="check">People always need deliveries</span></td>
-          </tr>
         </tbody>
       </table>
-    </div>
-
-    <!-- The Independence Factor -->
-    <div class="why-section">
-      <h2>The Independence Factor</h2>
-      <p>One of the things drivers tell us they love most: once you're on your route, it's your time. You set your pace, you take your breaks when you want, you put your music or podcast on. No manager hovering. No customers arguing about coupons. Just you, the van, and the road.</p>
-      <p>You have to execute the deliveries — that's the job. But how you get through your route is up to you. For a lot of people coming from retail or food service, that freedom is life-changing.</p>
     </div>
 
     <!-- What This Could Mean For You -->
     <div class="why-section">
       <h2>What This Could Mean For You</h2>
       <div class="why-highlight">
-        <p>A couple working this job together could clear six figures a year combined. No degree required. No CDL. Just show up, work hard, and go home to your family every night.</p>
+        <p>No degree required. No CDL. Show up, work hard, go home to your family every night with a real paycheck and real benefits.</p>
       </div>
     </div>
-
-  </div>
 
     <!-- How Training Works -->
     <div class="why-section">
@@ -320,12 +339,27 @@
 
   </div>
 
+    <!-- Experienced Drivers -->
+    <div class="why-section" style="max-width:800px; margin:0 auto 40px; padding:0 5%;">
+      <div class="why-highlight">
+        <p><strong>Already have delivery or driving experience?</strong><br>
+        <span style="font-weight:400; color:var(--text-secondary);">We fast-track experienced drivers into full routes and prioritize them for lead and dispatch roles as we grow. Let us know when you apply.</span></p>
+      </div>
+    </div>
+
   <!-- Bottom CTA -->
   <div class="why-cta">
-    <h2>Ready?</h2>
-    <p>It takes 5 minutes to apply. No resume needed.</p>
+    <h2>You Deserve a Job That Respects You.</h2>
+    <p>5-minute application. No resume needed. We'll call you within 48 hours.</p>
     <a href="https://www.indeed.com/job/delivery-associate-314f3368db2a6805" target="_blank" rel="noopener" class="btn">Apply Now on Indeed</a>
   </div>
+
+  <!-- Footer -->
+  <footer style="background:var(--black); color:rgba(255,255,255,0.5); padding:32px 5%; text-align:center; font-size:0.78rem; line-height:1.6;">
+    <p>© 2026 Fleet Ready Logistics LLC. All rights reserved.</p>
+    <p style="margin-top:6px;">Fleet Ready Logistics is an independent business and is not Amazon.com, Inc. or any of its affiliates. Equal Opportunity Employer.</p>
+    <p style="margin-top:12px;"><a href="mailto:recruiting@fleetreadylogistics.com" style="color:var(--orange);">recruiting@fleetreadylogistics.com</a></p>
+  </footer>
 
 </body>
 </html>
