@@ -872,9 +872,11 @@ section { padding: 96px 5%; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-grid-5 { grid-template-columns: repeat(2, 1fr); }
   .stats-grid-5 .stat-item:nth-child(5) { grid-column: 1 / -1; }
-  .stat-item:nth-child(2) { border-right: none; }
+  .stat-item:nth-child(2n) { border-right: none; }
+  .stat-item { padding: 12px 8px; }
   /* Prevent long stat words from overflowing */
-  .stat-number { font-size: clamp(1.2rem, 5vw, 2.4rem) !important; }
+  .stat-number { font-size: clamp(1.1rem, 4.5vw, 2rem) !important; }
+  .stat-label { font-size: 0.65rem; }
 
   .benefits-grid { grid-template-columns: 1fr; }
 
@@ -911,17 +913,21 @@ section { padding: 96px 5%; }
   #pw-gate img { width: 110px; height: 110px; }
   #pw-gate input, #pw-gate button { width: min(280px, 88vw); }
 
-  /* Stats: 2 top + 3 bottom pyramid */
+  /* Stats: compact on phone */
   .stats-grid { grid-template-columns: 1fr 1fr; }
   .stats-grid-5 {
     grid-template-columns: repeat(6, 1fr);
+    gap: 0;
   }
+  .stats-grid-5 .stat-item { padding: 10px 6px; border-right: none; }
   .stats-grid-5 .stat-item:nth-child(1) { grid-column: 1 / 4; }
   .stats-grid-5 .stat-item:nth-child(2) { grid-column: 4 / 7; }
   .stats-grid-5 .stat-item:nth-child(3) { grid-column: 1 / 3; }
   .stats-grid-5 .stat-item:nth-child(4) { grid-column: 3 / 5; }
   .stats-grid-5 .stat-item:nth-child(5) { grid-column: 5 / 7; }
-  #stats { padding: 28px 5%; }
+  .stats-grid-5 .stat-number { font-size: clamp(0.95rem, 4vw, 1.4rem) !important; }
+  .stats-grid-5 .stat-label { font-size: 0.58rem; }
+  #stats { padding: 20px 3%; }
 
   .steps-grid { grid-template-columns: 1fr; }
 
