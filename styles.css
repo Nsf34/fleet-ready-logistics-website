@@ -427,10 +427,9 @@ section { padding: 96px 5%; }
   justify-content: center;
 }
 .benefits-top-image img {
-  width: 100%;
-  max-height: 380px;
-  object-fit: cover;
-  border-radius: 12px;
+  max-width: 100%;
+  max-height: 420px;
+  object-fit: contain;
 }
 
 /* Pillar icons row — centered */
