@@ -110,12 +110,29 @@
     }
     .why-cta .btn:hover { background: #333; border-color: #333; }
     .why-nav {
-      padding: 20px 5%;
+      padding: 0 5%;
+      height: 90px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      overflow: visible;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
     }
-    .why-nav img { height: 60px; width: 60px; object-fit: contain; }
+    .why-nav img {
+      height: 160px;
+      width: 160px;
+      object-fit: contain;
+      margin: -25px 0;
+      flex-shrink: 0;
+    }
+    @media (max-width: 900px) {
+      .why-nav { height: 72px; }
+      .why-nav img { height: 120px; width: 120px; margin: -24px 0; }
+    }
+    @media (max-width: 600px) {
+      .why-nav { height: 64px; padding: 0 4%; }
+      .why-nav img { height: 104px; width: 104px; margin: -20px 0; }
+    }
     .why-nav a.back {
       font-size: 0.85rem;
       font-weight: 600;
