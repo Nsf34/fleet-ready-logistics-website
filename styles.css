@@ -932,8 +932,6 @@ section { padding: 96px 5%; }
   .faq-item:nth-child(even) { padding-left: 0; }
   .footer-disclaimer { text-align: left; }
 
-  #pw-gate img { width: 110px; height: 110px; }
-  #pw-gate input, #pw-gate button { width: min(280px, 88vw); }
 
   /* Stats: compact on phone */
   .stats-grid { grid-template-columns: 1fr 1fr; }

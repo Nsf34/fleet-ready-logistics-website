@@ -73,66 +73,8 @@
   }
   </script>
 
-  <!-- Password Gate -->
-  <style>
-    #pw-gate {
-      position: fixed; inset: 0; z-index: 9999;
-      background: #1A1A1A;
-      display: flex; flex-direction: column;
-      align-items: center; justify-content: center; gap: 24px;
-    }
-    #pw-gate img { width: 140px; height: 140px; object-fit: contain; }
-    #pw-gate form { display: flex; flex-direction: column; align-items: center; gap: 12px; }
-    #pw-gate input {
-      padding: 14px 20px; border: 2px solid #444; border-radius: 4px;
-      background: #2a2a2a; color: #fff; font-size: 1rem;
-      font-family: 'Inter', sans-serif; width: 280px; text-align: center;
-      outline: none;
-    }
-    #pw-gate input:focus { border-color: #F5A623; }
-    #pw-gate button {
-      padding: 14px 40px; background: #F5A623; color: #1A1A1A;
-      border: none; border-radius: 4px; font-weight: 700;
-      font-size: 1rem; font-family: 'Inter', sans-serif; cursor: pointer; width: 280px;
-    }
-    #pw-gate button:hover { background: #D4891A; }
-    #pw-error { color: #ff5c5c; font-size: 0.9rem; font-family: 'Inter', sans-serif; display: none; }
-  </style>
-  <script>
-    (function() {
-      document.addEventListener('DOMContentLoaded', function() {
-        var gate = document.getElementById('pw-gate');
-        if (sessionStorage.getItem('frl_auth') === '1') {
-          gate.style.display = 'none';
-          return;
-        }
-        var form = document.getElementById('pw-form');
-        var err  = document.getElementById('pw-error');
-        form.addEventListener('submit', function(e) {
-          e.preventDefault();
-          if (document.getElementById('pw-input').value === 'Bella135!') {
-            sessionStorage.setItem('frl_auth', '1');
-            gate.style.display = 'none';
-          } else {
-            err.style.display = 'block';
-            document.getElementById('pw-input').value = '';
-          }
-        });
-      });
-    })();
-  </script>
 </head>
 <body class="lang-en">
-
-  <!-- ===== PASSWORD GATE ===== -->
-  <div id="pw-gate">
-    <img src="assets/logo-white.png" alt="Fleet Ready Logistics" />
-    <form id="pw-form">
-      <input id="pw-input" type="password" placeholder="Enter password" autocomplete="current-password" />
-      <div id="pw-error">Incorrect password. Try again.</div>
-      <button type="submit">View Site</button>
-    </form>
-  </div>
 
   <!-- ===== MOBILE MENU ===== -->
   <div id="mobile-menu" role="dialog" aria-modal="true" aria-label="Navigation menu">
