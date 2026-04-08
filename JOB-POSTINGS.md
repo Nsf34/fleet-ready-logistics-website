@@ -259,7 +259,7 @@ Your route. Your van. Your music. Just get the deliveries done.
 HOW TO APPLY:
 
 Apply on Indeed - takes 5 minutes, no resume required:
-https://www.indeed.com/job/delivery-associate-314f3368db2a6805
+https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
 
 Or email: recruiting@fleetreadylogistics.com
 Website: fleetreadylogistics.com
@@ -320,7 +320,7 @@ Tu ruta. Tu van. Tu musica. Solo completa las entregas.
 COMO APLICAR:
 
 Aplica en Indeed - toma 5 minutos, no se necesita resume:
-https://www.indeed.com/job/delivery-associate-314f3368db2a6805
+https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
 
 O escribenos: recruiting@fleetreadylogistics.com
 Sitio web: fleetreadylogistics.com
