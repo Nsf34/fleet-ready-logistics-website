@@ -95,7 +95,7 @@ insurance, and a team that knows your name.
 
 HOW TO APPLY
 
-Click "Apply Now" on this page. Takes about 5 minutes.
+Click "Apply Now" below. Takes about 5 minutes.
 No resume required.
 
 Questions? recruiting@fleetreadylogistics.com
@@ -187,7 +187,7 @@ para roles de liderazgo.
 
 COMO APLICAR
 
-Haz clic en "Aplicar" en esta pagina. Toma 5 minutos.
+Haz clic en "Aplicar" abajo. Toma 5 minutos.
 No se necesita resume.
 
 Preguntas? recruiting@fleetreadylogistics.com
@@ -258,7 +258,7 @@ Your route. Your van. Your music. Just get the deliveries done.
 
 HOW TO APPLY:
 
-Apply on Indeed - takes 5 minutes, no resume required:
+Apply online - takes 5 minutes, no resume required:
 https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
 
 Or email: recruiting@fleetreadylogistics.com
@@ -319,7 +319,7 @@ Tu ruta. Tu van. Tu musica. Solo completa las entregas.
 
 COMO APLICAR:
 
-Aplica en Indeed - toma 5 minutos, no se necesita resume:
+Aplica en linea - toma 5 minutos, no se necesita resume:
 https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
 
 O escribenos: recruiting@fleetreadylogistics.com
