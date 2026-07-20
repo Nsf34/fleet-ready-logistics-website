@@ -259,7 +259,7 @@ Your route. Your van. Your music. Just get the deliveries done.
 HOW TO APPLY:
 
 Apply online - takes 5 minutes, no resume required:
-https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
+https://dashboard.fleetreadylogistics.com/careers
 
 Or email: recruiting@fleetreadylogistics.com
 Website: fleetreadylogistics.com
@@ -320,7 +320,7 @@ Tu ruta. Tu van. Tu musica. Solo completa las entregas.
 COMO APLICAR:
 
 Aplica en linea - toma 5 minutos, no se necesita resume:
-https://evoportalus.tracker-rms.com/Opportunity/LiteJob/?db=BrightFlag&id=3965
+https://dashboard.fleetreadylogistics.com/careers
 
 O escribenos: recruiting@fleetreadylogistics.com
 Sitio web: fleetreadylogistics.com
