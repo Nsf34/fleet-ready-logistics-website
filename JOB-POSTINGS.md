@@ -1,6 +1,6 @@
 # Fleet Ready Logistics - Refined Job Postings
 **Last updated: March 2026**
-**Contact: recruiting@fleetreadylogistics.com**
+**Contact: hr@fleetreadylogistics.com**
 
 > Joanne: review these and let Nick know if anything needs adjusting before posting.
 
@@ -98,7 +98,7 @@ HOW TO APPLY
 Click "Apply Now" below. Takes about 5 minutes.
 No resume required.
 
-Questions? recruiting@fleetreadylogistics.com
+Questions? hr@fleetreadylogistics.com
 
 -------------------------------------------------------
 
@@ -190,7 +190,7 @@ COMO APLICAR
 Haz clic en "Aplicar" abajo. Toma 5 minutos.
 No se necesita resume.
 
-Preguntas? recruiting@fleetreadylogistics.com
+Preguntas? hr@fleetreadylogistics.com
 
 -------------------------------------------------------
 
@@ -261,7 +261,7 @@ HOW TO APPLY:
 Apply online - takes 5 minutes, no resume required:
 https://dashboard.fleetreadylogistics.com/careers
 
-Or email: recruiting@fleetreadylogistics.com
+Or email: hr@fleetreadylogistics.com
 Website: fleetreadylogistics.com
 
 Compensation: $23.75+/hr, paid weekly
@@ -322,7 +322,7 @@ COMO APLICAR:
 Aplica en linea - toma 5 minutos, no se necesita resume:
 https://dashboard.fleetreadylogistics.com/careers
 
-O escribenos: recruiting@fleetreadylogistics.com
+O escribenos: hr@fleetreadylogistics.com
 Sitio web: fleetreadylogistics.com
 
 Compensacion: $23.75+/hr, pago semanal
@@ -399,7 +399,7 @@ If you or someone you know is looking for steady, well-paying
 work close to home, check us out:
 fleetreadylogistics.com
 
-Questions? recruiting@fleetreadylogistics.com
+Questions? hr@fleetreadylogistics.com
 ```
 
 ---
