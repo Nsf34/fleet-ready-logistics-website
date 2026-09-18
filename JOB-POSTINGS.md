@@ -20,13 +20,13 @@
 FLEET READY LOGISTICS - NOW HIRING DELIVERY DRIVERS
 Bergen County, New Jersey
 
-$23.75+/hr | Weekly Pay | Full Benefits | 4-Day Work Week
+$24.75+/hr | Weekly Pay | Full Benefits | 4-Day Work Week
 
 -------------------------------------------------------
 
 PAY & SCHEDULE
 
-- $23.75+/hr starting pay
+- $24.75+/hr starting pay
 - Paid WEEKLY via direct deposit every Friday
 - Full-time: 4-day work week (4 x 10-hour shifts)
 - Consistent schedule - same days each week
@@ -124,13 +124,13 @@ Location: Bergen County, NJ (in-person, local routes)
 FLEET READY LOGISTICS - CONTRATANDO CONDUCTORES DE ENTREGA
 Bergen County, Nueva Jersey
 
-$23.75+/hr | Pago Semanal | Beneficios Completos | Semana de 4 Dias
+$24.75+/hr | Pago Semanal | Beneficios Completos | Semana de 4 Dias
 
 -------------------------------------------------------
 
 PAGO Y HORARIO
 
-- $23.75+/hr paga inicial
+- $24.75+/hr paga inicial
 - Pago SEMANAL por deposito directo cada viernes
 - Tiempo completo: semana de 4 dias (4 turnos de 10 horas)
 - Horario consistente - los mismos dias cada semana
@@ -210,7 +210,7 @@ Ubicacion: Bergen County, NJ (presencial, rutas locales)
 **Cost:** $10-25 per listing, lasts 30 days
 **Repost:** Every 30 days
 
-**Title:** Delivery Drivers - $23.75+/hr - Bergen County, NJ (Weekly Pay, No CDL, Benefits)
+**Title:** Delivery Drivers - $24.75+/hr - Bergen County, NJ (Weekly Pay, No CDL, Benefits)
 
 ### Body
 
@@ -218,7 +218,7 @@ Ubicacion: Bergen County, NJ (presencial, rutas locales)
 FLEET READY LOGISTICS IS HIRING DELIVERY DRIVERS
 Bergen County, New Jersey
 
-$23.75+/hr starting | Weekly pay | 4-day work week | Full benefits
+$24.75+/hr starting | Weekly pay | 4-day work week | Full benefits
 
 We've partnered with Amazon to deliver packages across Northern
 New Jersey - Hackensack, Paramus, Fort Lee, Englewood, Teaneck,
@@ -228,7 +228,7 @@ Local routes. Home every night. Real W-2 job with real benefits.
 
 WHAT WE OFFER:
 
-- $23.75+/hr starting pay - paid WEEKLY (direct deposit every Friday)
+- $24.75+/hr starting pay - paid WEEKLY (direct deposit every Friday)
 - 4-day work week at full-time (4 x 10-hour shifts)
 - Health insurance
 - 401k
@@ -264,7 +264,7 @@ https://dashboard.fleetreadylogistics.com/careers
 Or email: hr@fleetreadylogistics.com
 Website: fleetreadylogistics.com
 
-Compensation: $23.75+/hr, paid weekly
+Compensation: $24.75+/hr, paid weekly
 Employment type: Full-time, W-2 employee
 ```
 
@@ -272,7 +272,7 @@ Employment type: Full-time, W-2 employee
 
 ## 4. CRAIGSLIST - SPANISH
 
-**Title:** Conductores de Entrega - $23.75+/hr - Bergen County, NJ (Pago Semanal, Sin CDL)
+**Title:** Conductores de Entrega - $24.75+/hr - Bergen County, NJ (Pago Semanal, Sin CDL)
 
 ### Body
 
@@ -280,7 +280,7 @@ Employment type: Full-time, W-2 employee
 FLEET READY LOGISTICS ESTA CONTRATANDO CONDUCTORES
 Bergen County, Nueva Jersey
 
-$23.75+/hr | Pago semanal | Semana de 4 dias | Beneficios completos
+$24.75+/hr | Pago semanal | Semana de 4 dias | Beneficios completos
 
 Nos hemos asociado con Amazon para entregar paquetes en el norte
 de Nueva Jersey - Hackensack, Paramus, Fort Lee, Englewood,
@@ -290,7 +290,7 @@ Rutas locales. En casa cada noche. Trabajo real W-2 con beneficios.
 
 LO QUE OFRECEMOS:
 
-- $23.75+/hr paga inicial - pago SEMANAL (deposito directo cada viernes)
+- $24.75+/hr paga inicial - pago SEMANAL (deposito directo cada viernes)
 - Semana de 4 dias a tiempo completo (4 turnos de 10 horas)
 - Seguro medico
 - 401k (ahorro para el retiro)
@@ -325,7 +325,7 @@ https://dashboard.fleetreadylogistics.com/careers
 O escribenos: hr@fleetreadylogistics.com
 Sitio web: fleetreadylogistics.com
 
-Compensacion: $23.75+/hr, pago semanal
+Compensacion: $24.75+/hr, pago semanal
 Tipo de empleo: Tiempo completo, empleado W-2
 ```
 
@@ -338,7 +338,7 @@ Tipo de empleo: Tiempo completo, empleado W-2
 ```
 We're hiring delivery drivers in Bergen County, NJ.
 
-$23.75+/hr starting pay
+$24.75+/hr starting pay
 Weekly direct deposit
 4-day work week
 Health insurance + 401k
@@ -361,7 +361,7 @@ fleetreadylogistics.com
 ```
 Estamos contratando conductores de entrega en Bergen County, NJ.
 
-$23.75+/hr paga inicial
+$24.75+/hr paga inicial
 Pago semanal por deposito directo
 Semana de 4 dias
 Seguro medico + 401k
@@ -390,7 +390,7 @@ Hey neighbors - Fleet Ready Logistics is hiring delivery
 drivers right here in Bergen County.
 
 We've partnered with Amazon to deliver packages across our
-local neighborhoods. $23.75+/hr, weekly pay, full benefits,
+local neighborhoods. $24.75+/hr, weekly pay, full benefits,
 4-day work week, and a company van provided.
 
 No CDL or experience needed. We train you.
@@ -413,7 +413,7 @@ We're an Amazon Delivery Service Partner hiring delivery
 drivers for local routes across Northern New Jersey.
 
 What we offer:
-- $23.75+/hr starting pay, paid weekly
+- $24.75+/hr starting pay, paid weekly
 - 4-day work week (4 x 10-hour shifts)
 - Health insurance, 401k, and paid time off
 - Company van provided
@@ -438,13 +438,13 @@ fleetreadylogistics.com
 
 ```
 Title: [HIRING] Delivery drivers in Bergen County, NJ -
-$23.75+/hr, weekly pay, 4-day work week
+$24.75+/hr, weekly pay, 4-day work week
 
 Hey everyone. I'm helping a new Amazon DSP (Delivery Service
 Partner) in Lodi hire drivers for local routes in Bergen County.
 
 Quick facts:
-- $23.75+/hr starting
+- $24.75+/hr starting
 - Paid weekly (direct deposit)
 - 4-day work week, 10-hour shifts
 - Health insurance, 401k, PTO
@@ -485,7 +485,7 @@ Happy to answer questions in the comments.
 
 ## NOTES FOR JOANNE
 
-1. **Confirm $23.75+/hr** is the rate you want published everywhere
+1. **Confirm $24.75+/hr** is the rate you want published everywhere
 2. **4-day work week** is the headline selling point - vault docs confirm this is how it works (4 x 10-hour shifts = 40 hours full-time)
 3. **Indeed listing title** should be updated to: "Amazon DSP - Package Delivery Driver - Bergen County, NJ" (this is Amazon's #1 performing title format)
 4. **Background check and drug screen** are mentioned in requirements for job board postings (Indeed, Craigslist) but NOT on the website per Ban the Box compliance
